@@ -1,0 +1,39 @@
+[
+  {
+    "type": "vless",
+    "tag": "🇫🇷 France",
+    "server": "fr-one.vipshopiran.ir",
+    "port": 2299,
+    "uuid": "ed591e69-db5f-477b-ae21-e8dff74e8f9b",
+    "tls": false,
+    "network": "tcp",
+    "header": {
+      "type": "http",
+      "request": {
+        "path": ["/"],
+        "headers": {
+          "Host": ["tgju.org"]
+        }
+      }
+    }
+  },
+  {
+    "type": "vless",
+    "tag": "🇫🇮 Finland",
+    "server": "fi-one.vipshopiran.ir",
+    "port": 2299,
+    "uuid": "ed591e69-db5f-477b-ae21-e8dff74e8f9b",
+    "tls": false,
+    "network": "tcp",
+    "header": {
+      "type": "http",
+      "request": {
+        "path": ["/"],
+        "headers": {
+          "Host": ["tgju.org"]
+        }
+      }
+    }
+  },
+  ...
+]
