@@ -2,3 +2,9 @@ vless://ed591e69-db5f-477b-ae21-e8dff74e8f9b@fr-one.vipshopiran.ir:2299?security
 vless://ed591e69-db5f-477b-ae21-e8dff74e8f9b@fi-one.vipshopiran.ir:2299?security=none&type=tcp&headerType=http&path=%2F&host=tgju.org#%F0%9F%92%8E%20VLESS%20%7C%20TCP%20%F0%9F%87%AB%F0%9F%87%AE
 vless://ed591e69-db5f-477b-ae21-e8dff74e8f9b@de-one.vipshopiran.ir:2299?security=none&type=tcp&headerType=http&path=%2F&host=tgju.org#%F0%9F%92%8E%20VLESS%20%7C%20TCP%20%F0%9F%87%A9%F0%9F%87%AA
 vless://ed591e69-db5f-477b-ae21-e8dff74e8f9b@de-two.vipshopiran.ir:2299?security=none&type=tcp&headerType=http&path=%2F&host=tgju.org#%F0%9F%92%8E%20VLESS%20%7C%20TCP%20%F0%9F%87%A9%F0%9F%87%AA
+vless://ed591e69-db5f-477b-ae21-e8dff74e8f9b@nl-one.vipshopiran.ir:2299?security=none&type=tcp&headerType=http&path=%2F&host=tgju.org#%F0%9F%92%8E%20VLESS%20%7C%20TCP%20%F0%9F%87%B3%F0%9F%87%B1
+vless://ed591e69-db5f-477b-ae21-e8dff74e8f9b@gb-one.vipshopiran.ir:2299?security=none&type=tcp&headerType=http&path=%2F&host=tgju.org#%F0%9F%92%8E%20VLESS%20%7C%20TCP%20%F0%9F%87%AC%F0%9F%87%A7
+vless://ed591e69-db5f-477b-ae21-e8dff74e8f9b@al-one.vipshopiran.ir:2299?security=none&type=tcp&headerType=http&path=%2F&host=tgju.org#%F0%9F%92%8E%20VLESS%20%7C%20TCP%20%F0%9F%87%A6%F0%9F%87%B1%20%C2%AB%20%DB%8C%D9%88%D8%AA%DB%8C%D9%88%D8%A8%20%C2%BB
+vless://ed591e69-db5f-477b-ae21-e8dff74e8f9b@us-one.vipshopiran.ir:2299?security=none&type=tcp&headerType=http&path=%2F&host=tgju.org#%F0%9F%92%8E%20VLESS%20%7C%20TCP%20%F0%9F%87%BA%F0%9F%87%B8
+vless://ed591e69-db5f-477b-ae21-e8dff74e8f9b@cdn.vipclubiran.ir:2052?security=none&type=ws&headerType=&path=%2F%3Fed%3D2052&host=nl.shirazgameclub.ir#%E2%98%81%EF%B8%8F%20VLESS%20%7C%20CDN%20%F0%9F%87%B3%F0%9F%87%B1
+vless://ed591e69-db5f-477b-ae21-e8dff74e8f9b@cdn.vipclubiran.ir:2052?security=none&type=ws&headerType=&path=%2F%3Fed%3D2052&host=tr.shirazgameclub.ir#%E2%98%81%EF%B8%8F%20VLESS%20%7C%20CDN%20%F0%9F%87%B3%F0%9F%87%B1
