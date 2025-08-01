@@ -1,9 +1,6 @@
 {
-  "log": {
-    "access": "",
-    "error": "",
-    "loglevel": "none",
-    "dnsLog": false
+"log": {
+  "loglevel": "none"
   },
   "dns": {
     "tag": "dns",
