@@ -2,7 +2,6 @@
 "log": {
   },
   "dns": {
-    "tag": "dns",
     "hosts": {
       "cloudflare-dns.com": [
         "172.67.73.38",
