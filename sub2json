@@ -1,6 +1,5 @@
 {
 "log": {
-  "loglevel": "none"
   },
   "dns": {
     "tag": "dns",
