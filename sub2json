@@ -1,7 +1,13 @@
 {
-"log": {
+  "remarks": "v2ray-sub2json-worker",
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "none",
+    "dnsLog": false
   },
   "dns": {
+    "tag": "dns",
     "hosts": {
       "cloudflare-dns.com": [
         "172.67.73.38",
