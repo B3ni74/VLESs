@@ -1,6 +1,8 @@
-vless://8c3578fe-cbaa-46eb-a20f-c834d65d9663@194.87.30.26:15718?path=%2F&security=none&encryption=none&type=ws#adjective%201
-vless://428f4386-9d8e-4c52-8fbe-2e7708fd108b@194.87.30.26:36873?path=%2F&security=none&encryption=none&type=ws#adjective%202
-vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.26:19120?path=%2F&security=none&encryption=none&type=ws#adjective%203
+vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.92:22647?path=%2F&security=none&encryption=none&type=ws#New%20route%201
+vless://8c3578fe-cbaa-46eb-a20f-c834d65d9663@194.87.30.92:16739?path=%2F&security=none&encryption=none&type=ws#New%20route%202
+vless://428f4386-9d8e-4c52-8fbe-2e7708fd108b@194.87.30.92:37305?path=%2F&security=none&encryption=none&type=ws#New%20route%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGJycWx3Mjh3cGdrbWZt@194.87.30.92:12581#New%20P1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyOTM3d3o4bjYwdWp5YWo0@194.87.30.92:61539#New%20P2
 vless://be21e732-58e2-47a1-b6c6-8cf9de58dde4@net.irajapan.store:2052?path=%2F&security=none&encryption=none&host=net.irajapan.store&type=ws#New%20panel%201
 vless://be21e732-58e2-47a1-b6c6-8cf9de58dde4@net1.irajapan.store:2052?path=%2F&security=none&encryption=none&host=net.irajapan.store&type=ws#New%20panel%202
 vless://be21e732-58e2-47a1-b6c6-8cf9de58dde4@net3.irajapan.store:2052?path=%2F&security=none&encryption=none&host=net.irajapan.store&type=ws#New%20panel%203
